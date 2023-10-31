@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sequelize": "^6.33.0",
+    "tedious": "^16.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
